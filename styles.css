@@ -3,11 +3,10 @@ content {
     font-size: medium;
     color: #E80C30;
     background: #F5F5F5;
-    padding: 20PX;
+    padding: 20px;
     margin: 0px 20px 30px 0px;
     size: 300 x 630.4;
-    position: relative;
-    left: 150px;
+    left: 80px;
 }
 header {
     color: #ffffff;
@@ -26,7 +25,6 @@ list {
     font-size: 18px;
 }
 article {
-    position: relative;
-    left: 150px;
-    margin-right: 500px;
+    margin-left: 380px;
+    margin-right: 250px;
 }
